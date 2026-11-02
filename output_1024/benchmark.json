@@ -1,0 +1,23 @@
+{
+  "repetitions": 10,
+  "mean_seconds": 4.700651349977124,
+  "median_seconds": 4.691528549941722,
+  "min_seconds": 4.300693399971351,
+  "max_seconds": 5.260835699969903,
+  "all_seconds": [
+    4.837021099985577,
+    5.260835699969903,
+    4.913463399978355,
+    4.516978700063191,
+    4.578802399919368,
+    4.804254699964076,
+    5.02989779994823,
+    4.300693399971351,
+    4.337049499968998,
+    4.427516800002195
+  ],
+  "input_image": "output_1024\\test_image.png",
+  "image_width": 1024,
+  "image_height": 1024,
+  "algorithm": "Classic Sobel; Euclidean gradient magnitude"
+}
