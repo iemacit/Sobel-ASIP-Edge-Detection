@@ -1,0 +1,18 @@
+{
+  "repetitions": 5,
+  "mean_seconds": 0.5497150200069882,
+  "median_seconds": 0.5393258000258356,
+  "min_seconds": 0.5302439000224695,
+  "max_seconds": 0.5758831999846734,
+  "all_seconds": [
+    0.5758831999846734,
+    0.56894679996185,
+    0.5393258000258356,
+    0.5341754000401124,
+    0.5302439000224695
+  ],
+  "input_image": "output\\test_image.png",
+  "image_width": 512,
+  "image_height": 512,
+  "algorithm": "Classic Sobel; Euclidean gradient magnitude"
+}
